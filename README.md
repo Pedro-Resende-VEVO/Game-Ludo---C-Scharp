@@ -1,5 +1,5 @@
 # Game-Ludo-in-C-Scharp
-Nesse projeto, meu objetivo foi recriar em C# o - mundialmente conhecido - jogo Ludo. 
+Nesse projeto, meu objetivo foi recriar em C# o - mundialmente conhecido - jogo Ludo, com suas demais regras e mapa vísivel. 
 
 Para isso, os __requisitos__ foram:
 - Usar POO;
