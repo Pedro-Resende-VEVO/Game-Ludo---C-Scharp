@@ -1,13 +1,13 @@
 # Game-Ludo-in-C-Scharp
 Nesse projeto, meu objetivo foi recriar em C# o - mundialmente conhecido - jogo Ludo. 
 
-Para isso, os _requisitos_ foram:
+Para isso, os __requisitos__ foram:
 - Usar POO;
 - Dividir cada função em métodos;
 - Ter pelo menos 2 jogadores (max 4)
 - Atribuir todas as regras do jogo
 
-Além disso, adcionei _objetiivos bônus_:
+Além disso, adcionei __objetivos bônus__:
 - Criar mapa ou interface
 - Dividir em mais de uma classe
 - Comentar a função de cada método
